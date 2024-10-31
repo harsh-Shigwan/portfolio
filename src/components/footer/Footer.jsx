@@ -38,7 +38,7 @@ const Footer = () => {
             <i className=" bx bxl-linkedin"></i>
           </a>
           <a
-            href="https://github.com/harsh-Shigwan"
+            href="https://www.instagram.com/harsh_shigwan?utm_source=qr"
             className="home__social-icon"
             target="_blank"
             rel="noopener noreferrer"
@@ -46,7 +46,7 @@ const Footer = () => {
             <i className="bx bxl-instagram"></i>
           </a>
           <a
-            href="https://leetcode.com/u/harsh_shigwan/"
+            href="https://x.com/Harsh_shigwan"
             className="home__social-icon"
             target="_blank"
             rel="noopener noreferrer"
@@ -54,7 +54,7 @@ const Footer = () => {
             <i className="bx bxl-twitter"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/harsh-shigwan-7bb012228/"
+            href="https://www.facebook.com/harsh.shigwan.54"
             className="home__social-icon"
             target="_blank"
             rel="noopener noreferrer"
